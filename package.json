@@ -1,0 +1,20 @@
+{
+  "name": "bot_tele_menfess",
+  "version": "1.0.0",
+  "description": "A Telegram bot built with Telegraf",
+  "main": "your-telegram-bot.js",
+  "scripts": {
+    "start": "node your-telegram-bot.js"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "telegraf"
+  ],
+  "author": "Ilham ahmad rifaldi",
+  "license": "MIT",
+  "dependencies": {
+    "telegraf": "^4.4.2",
+    "dotenv": "^10.0.0"
+  }
+}
